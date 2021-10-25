@@ -6,7 +6,8 @@ PHP is a [“community”/unofficial runtime](https://vercel.com/docs/runtimes#a
 
 ## Demo
 
-https://php-serverless-on-vercel.vercel.app/api
+- https://php-serverless-on-vercel.vercel.app/api
+- https://php-serverless-on-vercel.vercel.app/api/route2
 
 ## How to use
 
